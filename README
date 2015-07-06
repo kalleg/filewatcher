@@ -1,0 +1,28 @@
+Description
+--
+Filewatcher is a Firefox extension which automagically reloads local files in the browser when the file is modified.
+This by continiously checking for variations in the files timestamp and size.
+
+The plugin is only active in tabs browsing local files.
+Enabling/disabling the extensions is done through a button in the toolbar
+
+The plugin requires a newer version of Firefox (not determined yet)
+
+How to install
+--
+When in Firefox, press Ctrl+O, select filewatcher-<version>.xpi, follow instructions
+
+Authors
+--
+Karl Gäfvert
+Rasmus Linusson
+
+Todo
+--
+*Optimization and profiling
+*Settings menu
+*Master enable/disable button
+
+Changelog 1.0
+--
+Basic functionality
