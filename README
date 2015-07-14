@@ -19,9 +19,15 @@ Rasmus Linusson
 
 Todo
 --
+*Handle multiple windows (button match state of activeTab in all windows)
 *Optimization and profiling
 *Settings menu
 *Master enable/disable button
+
+
+Changelog 1.1
+--
+Bugfix - crash on moving tab to a new window
 
 Changelog 1.0
 --

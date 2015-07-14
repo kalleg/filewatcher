@@ -5,7 +5,7 @@
   "icon": "./data/images/32-active.png",
   "icon64": "./data/images/64-active.png",
   "description": "Tired of pushing f5 to view the progress of your test case reports? \nWe'll do it for you! Every time the file is changed you get the latest version - if you want!",
-  "author": "Karl Gafvert, Rasmus Linusson",
+  "author": "Karl Gäfvert, Rasmus Linusson",
   "license": "MPL 2.0",
-  "version": "1.0"
+  "version": "1.1"
 }
