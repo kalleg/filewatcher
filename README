@@ -21,6 +21,10 @@ Todo
 --
 *(Optimization and profiling - on hold until better tools are available)
 
+Changelog 1.2.1
+--
+Bugfix - tab not always reloading on moving back-/forward in tab history
+
 Changelog 1.2
 --
 Plugin button handles multiple windows correctly
