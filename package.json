@@ -11,7 +11,7 @@
   
   "preferences": [{
         "name": "fileCheckRate",
-        "title": "Update check intervall",
+        "title": "Update check interval",
         "description": "Time in ms between each check for change in file\nRange: 50ms - 2147000000ms",
         "type": "integer",
         "value": 667
