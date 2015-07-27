@@ -7,7 +7,7 @@
   "description": "Tired of pressing f5 to view the progress of your test case reports? \nWe'll do it for you! Every time the file is changed you get the latest version - if you want!",
   "author": "Karl Gäfvert, Rasmus Linusson",
   "license": "MPL 2.0",
-  "version": "1.2.1",
+  "version": "1.3",
   
   "preferences": [{
         "name": "fileCheckRate",
@@ -15,5 +15,12 @@
         "description": "Time in ms between each check for change in file\nRange: 50ms - 2147000000ms",
         "type": "integer",
         "value": 667
-    }]
+    },
+	{
+		"name": "defaultEnabled",
+		"title": "Reloading is by default enabled",
+		"description": "When opening a new local file, reloading should be enabled to start with",
+		"type": "bool",
+		"value": true
+	}]
 }
